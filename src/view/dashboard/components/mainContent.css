@@ -1,0 +1,35 @@
+.qr {
+  width: 170px;
+  float: right;
+  position: absolute;
+  bottom: 0px;
+  right: 20px;
+  top: 1px;
+  margin-top: 860px;
+}
+.qrCon {
+  display: flex;
+  flex-direction: column;
+}
+.tracker{
+    background-color: red;
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    position:absolute;
+}
+/* 0 
+126
+770 */
+/* .map{
+  position: relative;
+  width:600px;
+  height:600px;
+} */
+
+.map{
+  width:800px;
+}
+.focus:focus{
+  outline: none;
+}

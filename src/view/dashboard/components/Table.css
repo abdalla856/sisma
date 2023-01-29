@@ -1,0 +1,20 @@
+.table_head{
+    background-color:#BEEFFE;
+}
+.status{
+    width:10px !important;
+    height:10px ;
+    border-radius: 10px;
+    ;
+    margin-top:6px;
+
+    
+}
+.trend{
+    width:40px;
+    height:60px;
+    background-color:#3699D0;
+}
+.tend svg{
+    background-color:white
+}

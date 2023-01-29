@@ -1,0 +1,22 @@
+.tracker1{
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:red;
+    position :absolute;
+    /* 0 */
+    /* left:580px;
+    top:553px; */
+    /* 1 */
+    /* left:590px;
+    top:580px; */
+    /* default
+    left:990px;
+    top:580px; */
+    /* con 3 */
+    /* left:690px;
+    top:635px; */
+    /* con 4 */
+    /* left:790px;
+    top:670px; */
+}

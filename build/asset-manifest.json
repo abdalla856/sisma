@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9f8a448.css",
+    "main.js": "/static/js/main.09fb76a7.js",
+    "static/media/Hospital.jpg": "/static/media/Hospital.dd9f819b5aef70155020.jpg",
+    "static/media/robot.jpg": "/static/media/robot.a572d9619663695d8119.jpg",
+    "index.html": "/index.html",
+    "main.e9f8a448.css.map": "/static/css/main.e9f8a448.css.map",
+    "main.09fb76a7.js.map": "/static/js/main.09fb76a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f8a448.css",
+    "static/js/main.09fb76a7.js"
+  ]
+}

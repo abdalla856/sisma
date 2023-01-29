@@ -1,0 +1,44 @@
+.cont img {
+  height: 40px !important;
+  width: 40px !important;
+  float: left;
+  margin: 30px 20px;
+}
+
+.cont div {
+    margin-top :40px;
+    font-size: 20px;
+    margin-right: 40px !important;
+    margin-top: 40px !important;
+    text-align: center;
+}
+.header{
+    margin-top:10px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+.MuiButtonBase-root{
+    height:42px;
+    padding-top:20px;
+}
+.MuiButtonBase-root span{
+ font-size:16px;
+  /* width:200px */
+}
+.MuiButtonBase-root svg{
+    width:24px;
+    height:24px;
+}
+.boottom_list{
+    position: fixed !important;
+    bottom: 0;
+}
+.map{
+    height:380px;
+    display: flex;
+    justify-content: center !important;
+    margin-left:40px;
+    margin-top:10px;
+}
+
